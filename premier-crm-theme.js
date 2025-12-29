@@ -5,7 +5,7 @@
   const BRAND = {
     primary: "#7F1DFF",
     hover: "#6D28D9",
-    pressed: "#5B21B6",
+    pressed: "#fff",
     disabled: "#B9A7FF",
     tabUnderline: "#7F1DFF"
   };
